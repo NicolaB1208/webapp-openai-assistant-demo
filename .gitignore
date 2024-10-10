@@ -1,0 +1,11 @@
+# Ignore node_modules and Python cache
+node_modules/
+__pycache__/
+
+# Ignore log files and OS-specific files
+*.log
+*.DS_Store
+
+# Ignore compiled Python files
+*.pyc
+node_modules/
